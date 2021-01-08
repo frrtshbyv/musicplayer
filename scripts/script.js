@@ -14,7 +14,7 @@ new Vue({
           artist: "scriptonite",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
           source: "https://github.com/frrtshbyv/musicplayer/blob/main/mp3/chistiy.mp3",
-          url: "https://www.youtube.com/watch?v=dylyj3xObJo",
+          url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
           favorited: false
         },
         {
