@@ -13,8 +13,8 @@ new Vue({
           name: "chistiy",
           artist: "scriptonite",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
-          source: "https://github.com/frrtshbyv/musicplayer/blob/main/mp3/chistiy.mp3",
-          url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
+          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/3.mp3",
+          url: "https://www.youtube.com/watch?v=Z33OcT-H48M",
           favorited: false
         },
         {
