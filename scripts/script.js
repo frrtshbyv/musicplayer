@@ -13,15 +13,7 @@ new Vue({
           name: "chistiy",
           artist: "scriptonite",
           cover: "https://i.ytimg.com/vi/Z33OcT-H48M/maxresdefault.jpg",
-          source: "../mp3/chistiy.mp3",
-          url: "https://www.youtube.com/watch?v=dylyj3xObJo",
-          favorited: false
-        },
-        {
-          name: "chistiy",
-          artist: "scriptonite",
-          cover: "https://i.ytimg.com/vi/Z33OcT-H48M/maxresdefault.jpg",
-          source: "https://github.com/frrtshbyv/music/blob/main/mp3/chistiy.mp3",
+          source: "https://github.com/frrtshbyv/musicplayer/blob/main/mp3/chistiy.mp3",
           url: "https://www.youtube.com/watch?v=dylyj3xObJo",
           favorited: false
         },
